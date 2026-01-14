@@ -80,3 +80,6 @@ python run_training.py --task splice_site_prediction
 `​`​`
 
 The script will handle everything: loading the correct dataset and model, setting up the trainer with the specified hyperparameters, running the training and evaluation, and printing the final test set metrics. Results and checkpoints will be saved to the `output_dir` specified in the configuration.
+
+---
+*Minor documentation update - Jan 2026.*
