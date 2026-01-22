@@ -4,8 +4,6 @@ This project provides a modular and configurable pipeline to fine-tune the [Nucl
 
 ## Project Overview
 
-This framework is a refactored and structured version of the original fine-tuning notebook. It is designed for robustness, reusability, and ease of experimentation. Instead of a monolithic notebook, the code is organized into a modular structure with separate components for data loading, model definition, and training, all controlled by a central configuration file.
-
 The primary tasks demonstrated are:
 -   **Promoter Prediction**: A binary classification task to predict whether a DNA sequence is a promoter region.
 -   **Splice Site Prediction**: A multi-class classification task to identify splice sites.
